@@ -2,8 +2,9 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://carnesgit.github.io/React-Clicky-Game/",
+  "homepage": "https://carnesgit.github.io/React-Clicky-Game/",
   "dependencies": {
+    "gh-pages": "^2.1.1",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-scripts": "3.2.0"
