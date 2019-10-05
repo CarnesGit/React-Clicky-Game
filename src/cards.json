@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Cpt. Picard",
+      "image": "https://www.writeups.org/wp-content/uploads/Captain-Jean-Luc-Picard-Star-Trek-Patrick-Stewart.jpg",
+      "occupation": "Captain",
+      "location": "Enterprise"
+    },
+    {
+      "id": 2,
+      "name": "Lt. Laforg",
+      "image": "https://www.writeups.org/wp-content/uploads/Geordi-LaForge-Star-Trek-LeVar-Burton.jpg",
+      "occupation": "Chief Engineer",
+      "location": "Enterprise"
+    },
+    {
+      "id": 3,
+      "name": "Lt. Worf",
+      "image": "https://www.writeups.org/wp-content/uploads/Worf-Star-Trek-Michael-Dorn-Klingon.jpg",
+      "occupation": "Chief Security Officer",
+      "location": "Enterprise"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Crusher",
+      "image": "https://www.writeups.org/wp-content/uploads/Beverly-Crusher-Star-Trek-Gates-McFadden.jpg",
+      "occupation": "Ships Dr",
+      "location": "Enterprise"
+    },
+    {
+      "id": 5,
+      "name": "Ensign Wesley Crusher",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e6/WesleyCrusher2366.jpg",
+      "occupation": "Helm",
+      "location": "Enterprise"
+    },
+    {
+      "id": 6,
+      "name": "Chief O'brian",
+      "image": "https://www.writeups.org/wp-content/uploads/Miles-OBrien-Star-Trek-Colm-Meaney.jpg",
+      "occupation": "Chief Engineer",
+      "location": "Enterprise"
+    },
+    {
+      "id": 7,
+      "name": "Commander Data",
+      "image": "https://vignette.wikia.nocookie.net/memoryalpha/images/4/4f/Data%2C_2366.jpg/revision/latest?cb=20130529102644&path-prefix=en",
+      "occupation": "Science Officer",
+      "location": "Enterprise"
+    },
+    {
+      "id": 8,
+      "name": "Commander Yarr",
+      "image": "https://vignette.wikia.nocookie.net/memoryalpha/images/5/5b/Natasha_Yar%2C_2364.jpg/revision/latest?cb=20161121002748&path-prefix=en",
+      "occupation": "Previous Security Chief",
+      "location": "Deceased"
+    },
+    {
+      "id": 9,
+      "name": "Dr Pulaski",
+      "image": "http://www.treknews.net/wp-content/uploads/2017/07/star-trek-tng-dr-pulaski.jpg",
+      "occupation": "Ships Dr",
+      "location": "Deceased"
+    },
+    {
+      "id": 10,
+      "name": "Commander Riker",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/20/WilRiker.jpg",
+      "occupation": "1st Officer",
+      "location": "Enterprise"
+    },
+    {
+      "id": 11,
+      "name": "Q",
+      "image": "https://www.writeups.org/wp-content/uploads/Q-Star-Trek-Omnipotent-John-de-Lancie.jpg",
+      "occupation": "PITA",
+      "location": "Everywhere"
+    },
+    {
+      "id": 12,
+      "name": "Diana Troy",
+      "image": "https://www.writeups.org/wp-content/uploads/Deanna-Troi-Star-Trek-Marina-Sirtis.jpg",
+      "occupation": "Ships Counseler",
+      "location": "Enterprise"
+    }
+  ]
+  

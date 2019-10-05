@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  background-image: url("https://christianfm.com/wp-content/uploads/2016/06/space_bokeh_background_awake_seamless_tile_pattern_pattterns_tiles.jpg");
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  background-color: silver;
+  font-size: large;
+  padding: 20px;
+  color: white;
+}
+
+.footer {
+  margin-top: 20px;
+  background-color: rgb(24, 21, 21);
+  color: white;
+}
+.score {
+  color: darkslategrey;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
